@@ -6,9 +6,6 @@
     <router-link :to="{ name: 'list' }">
       to list
     </router-link>
-    <div>
-      <img src="../../assets/img/logo.png">
-    </div>
   </div>
 </template>
 
